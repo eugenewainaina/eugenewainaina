@@ -1,6 +1,6 @@
-## wassup 👋
+## wassup
 
-# 💫 About Me:
+# About Me:
 I'm a Software Developer looking to collaborate on any project, just hit me up.
 
 
